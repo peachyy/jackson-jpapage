@@ -18,17 +18,19 @@
 
   引入依赖
 
-`
+```
     <dependency>
       <groupId>com.peachyy</groupId>
       <artifactId>jackson-jpapage</artifactId>
       <version>0.0.1-SNAPSHOT</version>
     </dependency>
-`
+```
 
- 启用这个增强配置
+ 注解启用
  
- `@EnableJacksonJpaPage`
+```
+@EnableJacksonJpaPage
+```
  
 
  
